@@ -5,6 +5,7 @@ The primary goal of the project is to analyze global energy consumption patterns
 
 **Benefits to the Industry**
 **Informed Policy-Making:** Governments and organizations can use insights to develop energy policies that promote sustainability and efficiency.
+
 **Resource Management:** Energy companies can optimize resource allocation based on consumption patterns, leading to cost savings.
 **Sustainability Initiatives:** Helps businesses identify areas for reducing carbon footprints and improving environmental impacts.
 **Market Analysis:** Enables energy sector stakeholders to understand market dynamics and consumer behavior.
